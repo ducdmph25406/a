@@ -24,6 +24,7 @@ public class LAB1 {
         System.out.println("3: Tìm nghiệm");
         System.out.println("Mời bạn chọn: ");
         System.out.println("Mời bạn chọnđe: ");
+         System.out.println("Mời bạn chọnđe: ");
         a = sc.nextInt();
 
         switch (a) {
